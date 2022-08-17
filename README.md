@@ -1,7 +1,7 @@
 # Cyclotomic-New-Points
 
 ## Description
-All Sage code for our Algebraic Geometry project "New Points on PlaneCurves over Cyclotomic Fields". We used Galois theory and geometric methods to study a version of the Inverse Galois Problem for hyperelliptic and plane curves. A collaboration with Renee Bell, Kayla Gibson, Jack Valerio-Strauss, and Gesa Nestler. This project was done during the course of the Pomona Research in Mathematics Experience at Pomona College. Our group's research is still in progress.
+All Sage code for our Algebraic Geometry project "New Points on Plane Curves over Cyclotomic Fields." We used Galois theory and geometric methods to study a version of the Inverse Galois Problem for hyperelliptic and plane curves. A collaboration with Renee Bell, Kayla Gibson, Jack Valerio-Strauss, and Gesa Nestler. This project was done during the course of the Pomona Research in Mathematics Experience at Pomona College. Our group's research is still in progress.
 
 ## Layman's Explanation
 
